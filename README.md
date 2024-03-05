@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sherbul Mohammed</h1>
+<h1 align="center">Hello 👋</h1>
 
  🔭 I’m currently working on the Library app (https://github.com/SherbulMohammed/library-app)
 
