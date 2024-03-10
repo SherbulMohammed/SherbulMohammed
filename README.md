@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋</h1>
-<h3 align="center">My name is Sherbul. I am passionate developer mainly interested in web and software development 💻</h3>
+<h3 align="center">My name is Sherbul. I am a passionate developer mainly interested in web and software development 💻</h3>
 
 - 🔭 I’m currently working on [the Library app](https://github.com/SherbulMohammed/library-app)
 
